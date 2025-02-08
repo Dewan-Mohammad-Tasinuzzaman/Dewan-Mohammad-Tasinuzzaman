@@ -1,4 +1,3 @@
 - Hi, I’m Dewan
 - 🌱 I’m currently studying for my Bachelor of Science in Computer Science, at Ontario Tech University.
--  Actively looking for Co-Op/Internship opportunities for Winter and Summer 2024
 - 📫 How to reach me : Email - <a href="mailto:dewanmohammad.tasinuzzaman@ontariotechu.net">dewanmohammad.tasinuzzaman@ontariotechu.net</a>
