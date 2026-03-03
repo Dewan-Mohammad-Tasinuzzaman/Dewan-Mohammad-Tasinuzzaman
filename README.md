@@ -1,4 +1,4 @@
 - Hi, I’m Dewan
 - 🌱 I graduated from Ontario Tech University with a Bachelors' Degree in Computer Science, in 2025.
-- 💼 Currently working at Juno Pharma Canada Inc.
+- 💼 Working at Juno Pharma Canada Inc. Full-Time, since 2025.
 - 📫 How to reach me : Email - <a href="mailto:dewanmohammad.tasinuzzaman@ontariotechu.net">dewanmohammad.tasinuzzaman@ontariotechu.net</a>
